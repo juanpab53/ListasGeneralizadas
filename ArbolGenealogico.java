@@ -24,11 +24,7 @@ public class ArbolGenealogico {
     }
 
     // Busqueda por cedula
-    /*public Nodo buscarCed(String cedula) {
-        Nodo a;
-
-        return a;
-    }
+    
     */
     // Gestion personas
     // Registrar por orden de cedula
